@@ -1,0 +1,27 @@
+END USER LICENSE AGREEMENT (EULA)
+
+Product: Garrotxa
+Developer: Albert PhaseLab
+Date: 2026
+
+1. GRANT OF LICENSE
+Albert PhaseLab ("The Licensor") grants you ("The Licensee") a non-exclusive, non-transferable license to use the software on up to 3 computers simultaneously, provided they are owned and operated by the same individual purchaser.
+
+2. RESTRICTIONS
+- You may not copy, modify, distribute, sell, or transfer the software or any part of it to any third party.
+- Reverse engineering, decompiling, or disassembling the compiled binaries (VST3, AU, AAX) is strictly prohibited.
+- You may not use the software in any way that violates local or international laws.
+
+3. INTELLECTUAL PROPERTY
+The software, including all algorithms, graphics, and audio assets, is protected by copyright laws and remains the sole property of the Licensor. This agreement does not grant you any ownership rights.
+
+4. TERMINATION
+This license is effective until terminated. The Licensor reserves the right to terminate the license if the Licensee fails to comply with any of the terms. Upon termination, you must cease all use and destroy all copies of the software.
+
+5. LIMITATION OF LIABILITY
+The software is provided "as is" without warranty of any kind. In no event shall the Licensor be liable for any damages (including, without limitation, damages for loss of business profits or data) arising out of the use or inability to use this product.
+
+6. REFUND POLICY
+Due to the digital nature of the product, all sales are final.
+
+Copyright © 2026 Albert PhaseLab. All rights reserved.
